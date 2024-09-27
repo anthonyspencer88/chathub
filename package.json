@@ -77,7 +77,7 @@
     "react-color": "^2.19.3",
     "react-confetti-explosion": "^2.1.2",
     "react-copy-to-clipboard": "^5.1.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^18.3.1",
     "react-hot-toast": "^2.4.1",
     "react-i18next": "^13.3.1",
     "react-icons": "^4.11.0",
